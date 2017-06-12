@@ -1,2 +1,2 @@
 # gentoo-overlay
-Gentoo Linux Repository Overlay
+Gentoo Linux Repository Overlay [unofficial]
